@@ -19,7 +19,7 @@ Saya adalah seorang mahasiswa yang penuh semangat untuk menciptakan pengalaman w
 
 Project ini dibangun menggunakan framework CI4 , Aplikasi ini merupakan aplikasi klasifakasi menggunakan model data mining.Hal yang dapat dalam mengerjakan projek ini adalah saya semakin bisa menggunakan framework. Dan saya jadi paham bahwasanya ,dalam dunia profesional nanti kenapa selalu memakai framework.
 
-### [Aplikasi Sistem Informasi Perpustakaan](link_proyek_2)
+### [Aplikasi Sistem Informasi Perpustakaan](https://github.com/okrafaldino/vbnet-perpustakaan-library-vs2010)
 
 Project ini saya buat menggunakan bahasa VB net . Aplikasi ini digunakan untuk mempermudah sistem informasi perpustakaan yang mulanya menggunakan pencatan manual saja.
 
