@@ -15,7 +15,7 @@ Saya adalah seorang mahasiswa yang penuh semangat untuk menciptakan pengalaman w
 
 ## Proyek Terbaru
 
-### [Klasifikasi Status Stunting KNN memakai Framework CI 4](link_proyek_1)
+### [Klasifikasi Status Stunting KNN memakai Framework CI 4](https://github.com/okrafaldino/klasifikasi-gizi-stunting-knn)
 
 Project ini dibangun menggunakan framework CI4 , Aplikasi ini merupakan aplikasi klasifakasi menggunakan model data mining.Hal yang dapat dalam mengerjakan projek ini adalah saya semakin bisa menggunakan framework. Dan saya jadi paham bahwasanya ,dalam dunia profesional nanti kenapa selalu memakai framework.
 
